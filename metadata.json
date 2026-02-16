@@ -1,0 +1,7 @@
+{
+  "name": "CHADDOCK",
+  "description": "CHADDOCK Furniture Workroom. Discover custom, handcrafted furniture designed for luxury living.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
